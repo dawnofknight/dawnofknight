@@ -4,7 +4,7 @@
 Product Manager with 6+ years of experience in IT, including 2 years in product management. Passionate Full-Stack Developer with expertise in modern web technologies. I love building scalable applications, exploring new frameworks to solve real-world problems, and bridging the gap between technical implementation and business requirements.
 
 ## 💼 Professional Experience
-- **Product Manager** at Ganapatih Akasa Solutions
+- **Engineering Manager** at Ganapatih Akasa Solutions
 - **Product Analytics Implementation** (Nov 2022 - May 2023)
   - Lead Product Analytics plan and discussion
   - Developed product documentation to communicate upcoming features and products to internal teams
