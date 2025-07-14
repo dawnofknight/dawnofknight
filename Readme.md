@@ -5,8 +5,8 @@ Passionate Full-Stack Developer with expertise in modern web technologies. I lov
 
 ## 💻 Tech Stack
 - **Frontend:** React.js, Vue.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** PHP, Node.js
-- **Database:** MySQL, PostgreSQL
+- **Backend:** PHP, Node.js, Go
+- **Database:** MySQL, PostgreSQL, MongoDB
 - **Tools & Others:** Git, Docker, Shell Scripting
 - **Currently Learning:** Next.js, TypeScript, Prisma
 
@@ -49,10 +49,9 @@ Automated web template creation tool
 - [ ] Write technical blog posts about web development
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 [Email](mailto:your-email@example.com)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fajar-satria-2895395b/)
+- 📧 [Email](mailto:ryansat46@gmail.com)
+- 🌐 [Portfolio](https://www.fasat.dev/)
 
 ## 💡 Fun Facts
 - 🌅 I'm an early riser who codes best in the morning
